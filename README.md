@@ -11,3 +11,7 @@ Responsive landing page built with HTML and CSS.
 
 ## Live Demo
 https://cupquaki.github.io/product-landing-page/
+
+## Preview
+
+![Preview](screenshot.png)
